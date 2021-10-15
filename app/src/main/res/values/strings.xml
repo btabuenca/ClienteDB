@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ClienteBD</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="altImagenBoolean">[IMG]</string>
+
+    <!-- Mostrar Nuevo Cliente -->
+    <string name="txtMostrarCliente">Detalle del Cliente</string>
+    <string name="txtTextViewId">"Id: "</string>
+    <string name="txtTextViewNombre">"Nombre: "</string>
+    <string name="txtTextViewDNI">"DNI: "</string>
+    <string name="txtTextViewTlf">"Teléfono: "</string>
+    <string name="txtTextViewEmail">"e-mail: "</string>
+    <string name="txtTextViewCheck">"Verificado: "</string>
+</resources>
