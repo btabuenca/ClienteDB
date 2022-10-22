@@ -7,13 +7,13 @@
     <data>
         <variable
             name="mainCliente"
-            type="es.upm.miw.clientedb.models.Cliente" />
+            type="es.upm.btb.clientedb.models.Cliente" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".ActividadMostrarCliente"
+        tools:context=".MostrarClienteActivity"
         android:fitsSystemWindows="true">
 
         <RelativeLayout
