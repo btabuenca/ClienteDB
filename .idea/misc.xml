@@ -6,6 +6,8 @@
         <entry key="app/src/main/res/layout/activity_detalle_item.xml" value="0.21197916666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.28940217391304346" />
         <entry key="app/src/main/res/layout/content_detalle_item.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout_listado_clientes.xml" value="0.1" />
         <entry key="app/src/main/res/menu/menu_main.xml" value="0.21197916666666666" />
       </map>
     </option>
